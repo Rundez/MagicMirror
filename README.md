@@ -1,5 +1,5 @@
 # MagicMirror
-MagicMirror chill
+Welcome to our Magic Mirror open source project. This is intended to be an easier alternative to [the MagicMirror² (https://www.google.com) project.
 
 # How to install for MacOS/Ubuntu
 Step 1: Clone the project
