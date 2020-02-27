@@ -1,5 +1,5 @@
 # MagicMirror
-Welcome to our Magic Mirror open source project. This is intended to be an easier alternative to [the MagicMirror² (https://www.google.com) project.
+Welcome to our Magic Mirror open source project. This is intended to be an easier alternative to the [MagicMirror²](https://github.com/MichMich/MagicMirror) project.
 
 # How to install for MacOS/Ubuntu
 Step 1: Clone the project
