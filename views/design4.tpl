@@ -1,1 +1,25 @@
-<h4>Welcome to design 4<h4>
+
+<html>
+    <head>
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1.0, shrink-to-fit=no"
+        />
+        <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"></script>
+        <script src="https://api.windy.com/assets/map-forecast/libBoot.js"></script>
+        <style>
+            #windy {
+                width: 100%;
+                height: 300px;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="windy"></div>
+        
+       <script scr="JSfiles/script.js">
+        
+        
+</script> 
+    </body>
+</html>
