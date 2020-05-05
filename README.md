@@ -14,5 +14,5 @@ Welcome to our Magic Mirror open source project. This is intended to be an easie
 1. Download the project
 2. Create a development branch where you describe the feature or problem you are working on. 
 3. Create a pull request and wait for it to be reviewed. 
-4.???
+4. ???
 5. PROFIT! 
