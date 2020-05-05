@@ -8,4 +8,6 @@ Welcome to our Magic Mirror open source project. This is intended to be an easie
 3. pip install bottle
 4. Run the app.py file and the server will launch at localhost! 
 
+# How to add your own template?
+
 # How can I contribute?
