@@ -8,7 +8,12 @@ Welcome to our Magic Mirror open source project. This is intended to be an easie
 3. pip install bottle
 4. Run the app.py file and the server will launch at localhost! 
 
-# How to add your own template?
+# How to add your own template
+* Navigate to the "views" folder.
+* Create a .tpl file. This is a template file that is written in HTML.
+* Define a route to the template in app.py, with the Bottle framework. Example: designs/design6
+* Explore your inner creativity and make som magic designs!
+
 
 # How can I contribute?
 1. Download the project
