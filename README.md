@@ -1,6 +1,6 @@
 ![Logo](logos.png)
 # MagicMirror
-Welcome to our Magic Mirror open source project. This is intended to be an easier alternative to the [MagicMirror²](https://github.com/MichMich/MagicMirror) modular smart mirror platform. 
+Welcome to our Magic Mirror open source project. This is intended to be an easier alternative to the [MagicMirror²](https://github.com/MichMich/MagicMirror) modular smart mirror platform. You can read more about what software we use and why we use it in the [wiki](https://github.com/Rundez/MagicMirror/wiki)
 
 # How to install for MacOS/Ubuntu
 1. Clone the project
