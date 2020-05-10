@@ -4,9 +4,16 @@ Welcome to our Magic Mirror open source project. This is intended to be an easie
 
 # How to install for MacOS/Ubuntu
 1. Clone the project
-2. Install python3 
+2. Install python3. With homebrew: <brew install python3>
 3. pip install bottle
 4. Run the app.py file and the server will launch at localhost! 
+
+# How to install for Windows
+1. Clone the project
+2. Install python 3, current version for windows: https://www.python.org/downloads/release/python-382/
+3. pip install bottle
+4. Run the app.py file and the server will launch at localhost! 
+
 
 # How to add your own template
 * Navigate to the "views" folder.
